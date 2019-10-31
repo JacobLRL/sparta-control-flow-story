@@ -1,0 +1,22 @@
+body {
+    background-color: pink;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-style {
+    height: 30px;
+    width: 300px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: gray;
+    border: 2px black solid;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+}
